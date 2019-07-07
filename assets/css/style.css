@@ -269,27 +269,113 @@ input[type=submit] {
 
   @media only screen and (max-width: 640px) {
     .content {
-        width: 610px; 
-        padding: 16px;  
+        width: 590px; 
+        margin-left: 20px;
         margin-top: 50px; 
+        margin-bottom: 100px;
     }
 
     .logo {
         width: 640px;
         text-align: center; 
-        position: fixed;
+        position: relative;
         margin-top: 0px;
         margin-left: -10px;
     }
 
     nav {
+        position: absolute;
         width: 640px;
-        text-align: center; 
-        position: fixed;
-        margin-top: 92px;
-        background-color: #ffffff;
-        border-bottom: 2px solid #cccccc;
-        margin-left: -10px;
         height: 65px;
-    }    
-  }
+        background-color: #ffffff;
+        border-bottom: 2px solid #cccccc; 
+        margin-top: -38px;    
+        margin-left: -10px;
+        text-align: center;
+    }   
+
+    img {
+        width: 191%;
+        height: auto;
+    }
+
+    #portitem1 {
+        margin-top: 20px;
+        position: relative;
+        clear: left;
+        padding: 0px;
+    }
+    
+    #portitem2 {
+        margin-top: 35px;
+        position: relative;
+        clear: left;
+        padding: 0px;
+    }
+    
+    #portitem3 {
+        margin-top: 35px;
+        position: relative;
+        clear: left;
+        padding: 0px;
+    }
+    
+    #portitem4 {
+        margin-top: 35px;
+        position: relative;
+        clear: left;
+        padding: 0px;
+    }
+    
+    #portitem5 {
+        margin-top: 35px;
+        position: relative;
+        clear: left;
+        padding: 0px;
+    }
+
+    #hangman {
+        width: 191%;
+        height: 80px;
+        padding-top: 20px;
+        bottom: 20px;
+    }
+
+    #rpggame {
+        width: 191%;
+        height: 80px;
+        padding-top: 25px;
+        bottom: 20px;
+    }
+
+    #triviagame {
+        width: 191%;
+        height: 80px;
+        padding-top: 20px;
+        bottom: 20px;
+    }
+
+    #rutgers {
+        width: 191%;
+        height: 80px;
+        padding-top: 20px;
+        bottom: 20px;
+    }
+
+    #rockpaper {
+        width: 191%;
+        height: 80px;
+        padding-top: 20px;
+        bottom: 20px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    #bio-img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 30px;
+    }
+   }
