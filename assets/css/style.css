@@ -268,5 +268,28 @@ input[type=submit] {
   }
 
   @media only screen and (max-width: 640px) {
-    
+    .content {
+        width: 610px; 
+        padding: 16px;  
+        margin-top: 50px; 
+    }
+
+    .logo {
+        width: 640px;
+        text-align: center; 
+        position: fixed;
+        margin-top: 0px;
+        margin-left: -10px;
+    }
+
+    nav {
+        width: 640px;
+        text-align: center; 
+        position: fixed;
+        margin-top: 92px;
+        background-color: #ffffff;
+        border-bottom: 2px solid #cccccc;
+        margin-left: -10px;
+        height: 65px;
+    }    
   }
