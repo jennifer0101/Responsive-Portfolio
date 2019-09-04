@@ -166,6 +166,12 @@ section {
     margin-bottom: 200px;
 }
 
+#portitem6 {
+    position: relative;
+    float: left;
+    padding: 30px 0px 30px 38px;
+}
+
 #hangman {
     position: absolute;
     bottom: 47px;
@@ -213,6 +219,17 @@ section {
 #rockpaper {
     position: absolute;
     bottom: 17px;
+    background-color: #4aaaa5;
+    color: white;
+    width: 275px;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#mmm-eat {
+    position: absolute;
+    bottom: 47px;
     background-color: #4aaaa5;
     color: white;
     width: 275px;
