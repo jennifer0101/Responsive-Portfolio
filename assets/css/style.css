@@ -192,6 +192,13 @@ section {
     position: relative;
     float: left;
     padding: 0px 0px 30px;
+    margin-bottom: 30px;
+}
+
+#portitem10 {
+    position: relative;
+    float: left;
+    padding: 0px 0px 30px 38px;
     margin-bottom: 200px;
 }
 
@@ -284,6 +291,17 @@ section {
 }
 
 #friend-finder {
+    position: absolute;
+    bottom: 50px;
+    background-color: #4aaaa5;
+    color: white;
+    width: 275px;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#burger {
     position: absolute;
     bottom: 50px;
     background-color: #4aaaa5;
