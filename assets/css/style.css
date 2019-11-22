@@ -136,70 +136,70 @@ section {
 #portitem1 {
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 12px 30px 0px;
 }
 
 #portitem2 {
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 24px 30px 24px;
 }
 
 #portitem3 {
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 0px 30px 12px;
 }
 
 #portitem4 {
     clear: both;
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 12px 30px 0px;
 }
 
 #portitem5 {
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 24px 30px 24px;
 }
 
 #portitem6 {
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 0px 30px 12px;
 }
 
 #portitem7 {
     clear: both;
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 12px 30px 0px;
 }
 
 #portitem8 {
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 24px 30px 24px;
 }
 
 #portitem9 {
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 0px 30px 12px;
 }
 
 #portitem10 {
     clear: both;
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 12px 30px 0px;
 }
 
 #portitem11 {
     position: relative;
     float: left;
-    padding: 10px 12px 30px 12px;
+    padding: 10px 24px 30px 24px;
 }
 
 #hangman {
