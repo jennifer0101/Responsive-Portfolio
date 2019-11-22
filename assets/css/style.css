@@ -136,78 +136,70 @@ section {
 #portitem1 {
     position: relative;
     float: left;
-    padding: 10px 19px 30px 0px;
+    padding: 10px 12px 30px 12px;
 }
 
 #portitem2 {
     position: relative;
     float: left;
-    padding: 10px 0px 30px 19px;
+    padding: 10px 12px 30px 12px;
 }
 
 #portitem3 {
-    clear: both;
     position: relative;
     float: left;
-    padding: 30px 19px 30px 0px;
+    padding: 10px 12px 30px 12px;
 }
 
 #portitem4 {
-    position: relative;
-    float: left;
-    padding: 30px 0px 30px 19px;
-}
-
-#portitem5 {
     clear: both;
     position: relative;
     float: left;
-    padding-top: 30px;
-    margin-bottom: 30px;
+    padding: 10px 12px 30px 12px;
+}
+
+#portitem5 {
+    position: relative;
+    float: left;
+    padding: 10px 12px 30px 12px;
 }
 
 #portitem6 {
     position: relative;
     float: left;
-    padding: 30px 0px 30px 38px;
+    padding: 10px 12px 30px 12px;
 }
 
 #portitem7 {
     clear: both;
     position: relative;
     float: left;
-    padding-top: 30px;
-    margin-bottom: 30px;
+    padding: 10px 12px 30px 12px;
 }
 
 #portitem8 {
     position: relative;
     float: left;
-    padding: 30px 0px 30px 38px;
-    margin-bottom: 30px;
+    padding: 10px 12px 30px 12px;
 }
 
 #portitem9 {
-    clear: both;
     position: relative;
     float: left;
-    padding: 0px 0px 30px;
-    margin-bottom: 30px;
+    padding: 10px 12px 30px 12px;
 }
 
 #portitem10 {
-    position: relative;
-    float: left;
-    padding: 0px 0px 30px 38px;
-    margin-bottom: 30px;
-}
-
-#portitem11 {
     clear: both;
     position: relative;
     float: left;
-    padding: 0px 0px 30px;
-    margin-bottom: 200px;
+    padding: 10px 12px 30px 12px;
+}
+
+#portitem11 {
+    position: relative;
+    float: left;
+    padding: 10px 12px 30px 12px;
 }
 
 #hangman {
@@ -221,7 +213,7 @@ section {
     padding-top: 15px;
 }
 
-#rpggame {
+#crystal {
     position: absolute;
     bottom: 47px;
     background-color: #4aaaa5;
@@ -243,7 +235,7 @@ section {
     padding-top: 15px;
 }
 
-#rutgers {
+#giftastic {
     position: absolute;
     bottom: 47px;
     background-color: #4aaaa5;
@@ -254,9 +246,9 @@ section {
     padding-top: 15px;
 }
 
-#rockpaper {
+#train {
     position: absolute;
-    bottom: 17px;
+    bottom: 47px;
     background-color: #4aaaa5;
     color: white;
     width: 275px;
@@ -278,7 +270,7 @@ section {
 
 #liri-bot {
     position: absolute;
-    bottom: 17px;
+    bottom: 47px;
     background-color: #4aaaa5;
     color: white;
     width: 275px;
